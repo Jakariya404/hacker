@@ -84,8 +84,8 @@ def clear():
 def back():
 	login()
 
-ahsan="ALE-"
-imt="-M4786=="
+pkg="I-"
+imt="me=="
 ak="Jahid-"
 myid=uuid.uuid4().hex[:10].upper()
 try:
@@ -1302,7 +1302,7 @@ def Subscraption():
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
-		Main()
+		(logo)
 	else:
 		os.system("clear")
 		print(logo)
